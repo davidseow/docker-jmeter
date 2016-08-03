@@ -1,6 +1,6 @@
 # docker-jmeter
 
-Packages JMeter in a docker container
+Packages JMeter 3.0 with JMeterPlugins-ExtrasLibs-1.4.0 in a docker container
 
 ## Example usage
 
